@@ -1,0 +1,6 @@
+[book]
+authors = ["crumplecup"]
+language = "en"
+multilingual = false
+src = "src"
+title = "crumplecup"
